@@ -1,14 +1,10 @@
-- Radix para paleta de cores
-- stitches para css
-- react-routes para rotas
-
 ![bees](https://media-exp1.licdn.com/dms/image/C4D0BAQHm1ULYG7xpsw/company-logo_200_200/0/1625139590822?e=2147483647&v=beta&t=FkeC07ndz4LImDumm5iUbSN-PsZSWbWmld6ypwqgKAc)
 
 # Bees Challenge
 
-- developed project link: [bees | Let's Transform Sales Together](link)
+- developed project link: [bees | Let's Transform Sales Together](https://bees-challenge-k9a6m4zlc-sallesg.vercel.app/)
 
-#### Challenge proposed by the Bees company with the following requirements: (link)
+#### Challenge proposed by the Bees company with the following requirements: (https://gist.github.com/lucaslacava/9608d8b957224df44cd198c08de5bf2b)
 
 ---
 
