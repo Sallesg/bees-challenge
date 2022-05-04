@@ -10,7 +10,7 @@
 
 ### Starting the project
 
-- Clone the repository with the command: **_git clone _**
+- Clone the repository with the command: **_git clone https://github.com/Sallesg/bees-challenge.git_**
 - To install the dependencies used in the project you must run the command in terminal:
 
 ```
